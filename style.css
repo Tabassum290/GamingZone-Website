@@ -165,3 +165,113 @@ margin-left: 4px;
     line-height: 23px;
     color: white;
 }
+/* Gamer Section Styling */
+.gamer-section{
+   width: 1540px;
+   height: 490px;
+   margin-top: 60px;
+   display: flex;
+}
+.right-side{
+   margin-right: 80px;
+}
+.right-side h3{
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+background: linear-gradient(180.00deg, rgb(249, 72, 178),rgb(135, 88, 241));
+-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+background-clip:text;
+text-align: right;
+margin-top: 40px;
+}
+.right-side p{
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 30px;
+   color: rgb(83, 76, 100);
+   text-align: right;
+   margin-top: 16px;
+}
+.right-side .btn-1{
+   width: 210px;
+   height: 65px;
+   text-transform: uppercase;
+   margin-left: 380px;
+   margin-top: 30px;
+}
+.right-side .para-2{
+   font-size: 24px;
+}
+.right-side .special{
+   font-size: 32px;
+   font-weight: 700;
+   line-height: 45px;
+}
+/* Online Games Styling */
+.online-games{
+   width: 1540px;
+   height: 600px;
+   border: 1px solid white;
+   margin-top: 60px;
+}
+.online-games-description h3 , .online-games-description .color-2{
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+text-align: center;
+align-items: center;
+margin-top: 20px;
+}
+.online-games-description p{
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 30px;
+   text-align: center;
+   align-items: center;
+   color: rgb(83, 76, 100);
+   margin-top: 16px;
+}
+.funny-videos {
+   width: 1240px;
+   display: flex;
+   justify-content: space-around;
+   margin-top: 30px;
+   gap:40px;
+ margin: 30px;
+}
+.funny-videos .img-3 img{
+box-sizing: border-box;
+border-radius: 16px;
+filter: brightness(40%);
+}
+.inside{
+   width: 100%;
+   height: 100%;
+}
+.inside i{
+   position: absolute;
+   font-size: 36px;
+   color: white;
+   margin-top: 156px;
+   margin-left: -188px;
+}
+.inside #stop{
+   position: absolute;
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 23px;
+   color: rgb(255, 66, 165);
+   margin-top: -200px;
+   margin-left: 115px;
+   text-align: center;
+   align-items: center;
+}
+.funny-videos .p{
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 30px;
+   color: rgb(83, 76, 100);
+   margin-top: 20px;
+}
